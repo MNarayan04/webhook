@@ -1,9 +1,4 @@
 
-
-## **Overview**
-
-This project creates an automatic pull request (PR) review system using GitHub OAuth for authentication, an AI model for generating PR comments, and webhooks to manage PR events.
-
 ## **Project Structure**
 
 ```
